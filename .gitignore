@@ -43,3 +43,10 @@ scratch/
 results/
 test_layer0_specular/
 
+# Project Reports & Local Documents
+*.docx
+*.pdf
+Chip_Detection_Project_Report.docx
+Chip_Detection_Project_Report.pdf
+
+
