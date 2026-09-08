@@ -152,3 +152,41 @@ class AdaptiveBackgroundModel:
 
         dynamic_edges = cv2.bitwise_and(masked_edges, fg_mask_dilated)
         return dynamic_edges, fg_mask
+
+
+# ---------------------------------------------------------------------------
+# Backwards-Compatibility Functions (for v1 baseline & visualizer scripts)
+# ---------------------------------------------------------------------------
+def compute_dilated_baseline(
+    baseline_crop_or_edges: np.ndarray,
+    tip_x: int = 150,
+    tip_y: int = 150,
+    ksize: int = 3,
+    kernel_size: int = None,
+    iterations: int = 1
+) -> tuple[np.ndarray, np.ndarray]:
+    """
+    Computes a dilated baseline edge map from an initial baseline frame or edge map.
+    Returns (raw_edge_map, dilated_edge_map).
+    """
+    if len(baseline_crop_or_edges.shape) == 3:
+        from src.canny_edge_detector import extract_chip_edges_pipeline
+        _, e0 = extract_chip_edges_pipeline(baseline_crop_or_edges)
+    else:
+        e0 = baseline_crop_or_edges.copy()
+
+    k = kernel_size if kernel_size is not None else ksize
+    kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (k, k))
+    e0_dilated = cv2.dilate(e0, kernel, iterations=iterations)
+    return e0, e0_dilated
+
+
+def subtract_baseline_edges(
+    current_edges: np.ndarray,
+    dilated_baseline_edges: np.ndarray
+) -> np.ndarray:
+    """
+    Performs binary edge difference: E_dynamic = current_edges AND NOT dilated_baseline_edges.
+    """
+    return cv2.bitwise_and(current_edges, cv2.bitwise_not(dilated_baseline_edges))
+

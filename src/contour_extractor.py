@@ -102,8 +102,6 @@ def filter_seed_connected_components(
     valid_sector_mask = np.ones((h, w), dtype=np.uint8)
     # Block lower-left lathe floor clutter
     valid_sector_mask[int(tip_y + 20):, :int(tip_x - 20)] = 0
-    # Block lower-right solid steel tool body / carriage (y >= tip_y + 15, x >= tip_x + 30)
-    valid_sector_mask[int(tip_y + 15):, int(tip_x + 30):] = 0
     # Block upper workpiece glare line
     valid_sector_mask[:int(tip_y - 25), :int(tip_x - 30)] = 0
     # Block tool shank body below insert (starts at tip_y + 25 to preserve insert flank)
