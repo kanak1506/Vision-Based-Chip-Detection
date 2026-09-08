@@ -63,7 +63,7 @@ def filter_seed_connected_components(
     Layer 6 (Phase 3 v2): Tool-Tip Seed-Connected Component Tracing.
     Retains edge components physically originating at the tool tip shear root
     or forming continuous stream continuations along valid chip ejection corridors:
-      - Rightward Ribbon Corridor: x in [tip_x - 10, tip_x + 150], y in [tip_y - 60, tip_y + 40]
+      - Rightward Ribbon Corridor: x in [tip_x - 10, tip_x + 150], y in [tip_y - 60, tip_y + 90]
       - Downward Helical Corridor: x in [tip_x - 65, tip_x + 20], y in [tip_y - 15, tip_y + 95]
 
     Excludes invariant non-machining zones:
@@ -134,7 +134,7 @@ def filter_seed_connected_components(
     # Chains connectivity down the stream (C0 -> C1 -> C2 -> C3...) along active ejection corridors
     if seed_connected_labels:
         ribbon_x_min, ribbon_x_max = tip_x - 10, tip_x + 150
-        ribbon_y_min, ribbon_y_max = tip_y - 60, tip_y + 15
+        ribbon_y_min, ribbon_y_max = tip_y - 60, tip_y + 90
 
         helical_x_min, helical_x_max = tip_x - 65, tip_x + 20
         helical_y_min, helical_y_max = tip_y - 15, tip_y + 95

@@ -61,10 +61,10 @@ def create_cutting_sector_mask(
 
     # 7. Tool block & carriage suppression (x >= tip_x + 30, y >= tip_y + 15) REMOVED per user request
 
-    # 8. Unmask rightward ribbon flow corridor — air zone [tip_y - 60, tip_y + 15]
+    # 8. Unmask rightward ribbon flow corridor — air zone [tip_y - 60, tip_y + 90]
     cv2.rectangle(mask,
                   (int(tip_x - 10),  int(tip_y - 60)),
-                  (int(tip_x + 150), int(tip_y + 15)),
+                  (int(tip_x + 150), int(tip_y + 90)),
                   255, -1)
 
     # 9. Unmask downward/leftward helical flow corridor
