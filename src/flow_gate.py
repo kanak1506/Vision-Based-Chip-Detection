@@ -39,8 +39,8 @@ class OpticalFlowGate:
 
     def __init__(
         self,
-        min_magnitude: float = 0.8,
-        tip_protect_radius: int = 30,
+        min_magnitude: float = 1.2,
+        tip_protect_radius: int = 25,
         mask_dilation_ksize: int = 5,
         pyr_scale: float = 0.5,
         levels: int = 3,
@@ -53,9 +53,9 @@ class OpticalFlowGate:
         Parameters
         ----------
         min_magnitude : float
-            Minimum motion magnitude in pixels/frame required to pass the gate. Default 0.8.
+            Minimum motion magnitude in pixels/frame required to pass the gate. Default 1.2.
         tip_protect_radius : int
-            Radius around tool tip where edges are always preserved (shear initiation protection). Default 30.
+            Radius around tool tip where edges are always preserved (shear initiation protection). Default 25.
         mask_dilation_ksize : int
             Structuring element size to dilate motion mask so thin edge spines are not clipped. Default 5.
         """

@@ -56,8 +56,8 @@ def filter_seed_connected_components(
     tip_x: int = 150,
     tip_y: int = 150,
     seed_radius: int = 25,
-    max_gap_helical: float = 22.0,
-    max_gap_ribbon: float = 40.0
+    max_gap_helical: float = 18.0,
+    max_gap_ribbon: float = 14.0
 ) -> tuple[np.ndarray, np.ndarray]:
     """
     Layer 6 (Phase 3 v2): Tool-Tip Seed-Connected Component Tracing.
@@ -83,9 +83,9 @@ def filter_seed_connected_components(
     seed_radius : int
         Radius around tool tip defining the initial shear initiation seed. Default 25.
     max_gap_helical : float
-        Maximum allowable gap between descending helical coil loops. Default 22.0 px.
+        Maximum allowable gap between descending helical coil loops. Default 18.0 px.
     max_gap_ribbon : float
-        Maximum allowable gap along continuous horizontal ribbons. Default 40.0 px.
+        Maximum allowable gap along continuous horizontal ribbons. Default 14.0 px.
 
     Returns
     -------

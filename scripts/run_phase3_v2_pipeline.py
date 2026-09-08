@@ -87,7 +87,7 @@ def process_video_v2(task: tuple) -> dict:
 
     # Initialize per-video Adaptive Background Subtractor & Optical Flow Gate
     bg_model = AdaptiveBackgroundModel(method="MOG2", history=90, var_threshold=16.0, detect_shadows=False)
-    flow_gate = OpticalFlowGate(min_magnitude=0.8, tip_protect_radius=30, mask_dilation_ksize=5)
+    flow_gate = OpticalFlowGate(min_magnitude=1.2, tip_protect_radius=25, mask_dilation_ksize=5)
 
     for row in sorted_records:
         crop_path = row["crop_path"]

@@ -2,7 +2,7 @@
   "pipeline_version": "v2_hybrid_9layer",
   "total_crops_processed": 4165,
   "total_videos": 27,
-  "elapsed_seconds": 441.52,
+  "elapsed_seconds": 569.16,
   "stepwise_layers_root": "data/phase3_stepwise_layers",
   "active_verified_layers": [
     "layer0_specular_prefiltered",
