@@ -1,0 +1,2610 @@
+{
+  "WhatsApp Video 2026-08-11 at 6.55.21 AM (1).mp4": {
+    "video_index": 26,
+    "material": "Mild Steel",
+    "start_frame": 0,
+    "bbox": [
+      490,
+      169,
+      15,
+      11
+    ],
+    "tool_tip": [
+      495,
+      172
+    ],
+    "offset_from_bbox": [
+      5,
+      3
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          495,
+          172
+        ],
+        "bbox": [
+          490,
+          169,
+          15,
+          11
+        ]
+      },
+      {
+        "frame_idx": 256,
+        "tool_tip": [
+          546,
+          163
+        ],
+        "bbox": [
+          541,
+          153,
+          14,
+          18
+        ]
+      },
+      {
+        "frame_idx": 511,
+        "tool_tip": [
+          514,
+          210
+        ],
+        "bbox": [
+          505,
+          200,
+          14,
+          16
+        ]
+      },
+      {
+        "frame_idx": 767,
+        "tool_tip": [
+          476,
+          231
+        ],
+        "bbox": [
+          465,
+          217,
+          21,
+          21
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.21 AM.mp4": {
+    "video_index": 27,
+    "material": "Mild Steel",
+    "start_frame": 0,
+    "bbox": [
+      537,
+      188,
+      16,
+      19
+    ],
+    "tool_tip": [
+      543,
+      197
+    ],
+    "offset_from_bbox": [
+      6,
+      9
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          543,
+          197
+        ],
+        "bbox": [
+          537,
+          188,
+          16,
+          19
+        ]
+      },
+      {
+        "frame_idx": 91,
+        "tool_tip": [
+          529,
+          220
+        ],
+        "bbox": [
+          519,
+          210,
+          16,
+          18
+        ]
+      },
+      {
+        "frame_idx": 182,
+        "tool_tip": [
+          515,
+          234
+        ],
+        "bbox": [
+          506,
+          224,
+          15,
+          15
+        ]
+      },
+      {
+        "frame_idx": 273,
+        "tool_tip": [
+          518,
+          211
+        ],
+        "bbox": [
+          512,
+          204,
+          14,
+          13
+        ]
+      },
+      {
+        "frame_idx": 364,
+        "tool_tip": [
+          518,
+          211
+        ],
+        "bbox": [
+          512,
+          204,
+          14,
+          13
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.09 AM.mp4": {
+    "video_index": 1,
+    "material": "Aluminium",
+    "start_frame": 0,
+    "bbox": [
+      490,
+      207,
+      20,
+      13
+    ],
+    "tool_tip": [
+      500,
+      214
+    ],
+    "offset_from_bbox": [
+      10,
+      7
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          500,
+          214
+        ],
+        "bbox": [
+          490,
+          207,
+          20,
+          13
+        ]
+      },
+      {
+        "frame_idx": 50,
+        "tool_tip": [
+          459,
+          224
+        ],
+        "bbox": [
+          453,
+          216,
+          15,
+          14
+        ]
+      },
+      {
+        "frame_idx": 100,
+        "tool_tip": [
+          448,
+          222
+        ],
+        "bbox": [
+          443,
+          218,
+          13,
+          10
+        ]
+      },
+      {
+        "frame_idx": 250,
+        "tool_tip": [
+          480,
+          203
+        ],
+        "bbox": [
+          476,
+          199,
+          9,
+          9
+        ]
+      },
+      {
+        "frame_idx": 300,
+        "tool_tip": [
+          471,
+          210
+        ],
+        "bbox": [
+          464,
+          205,
+          14,
+          9
+        ]
+      },
+      {
+        "frame_idx": 350,
+        "tool_tip": [
+          469,
+          219
+        ],
+        "bbox": [
+          463,
+          212,
+          12,
+          12
+        ]
+      },
+      {
+        "frame_idx": 400,
+        "tool_tip": [
+          466,
+          227
+        ],
+        "bbox": [
+          457,
+          222,
+          17,
+          12
+        ]
+      },
+      {
+        "frame_idx": 450,
+        "tool_tip": [
+          473,
+          234
+        ],
+        "bbox": [
+          467,
+          228,
+          14,
+          11
+        ]
+      },
+      {
+        "frame_idx": 500,
+        "tool_tip": [
+          482,
+          229
+        ],
+        "bbox": [
+          474,
+          223,
+          19,
+          13
+        ]
+      },
+      {
+        "frame_idx": 550,
+        "tool_tip": [
+          510,
+          234
+        ],
+        "bbox": [
+          502,
+          227,
+          17,
+          13
+        ]
+      },
+      {
+        "frame_idx": 650,
+        "tool_tip": [
+          501,
+          234
+        ],
+        "bbox": [
+          493,
+          229,
+          17,
+          14
+        ]
+      },
+      {
+        "frame_idx": 700,
+        "tool_tip": [
+          472,
+          230
+        ],
+        "bbox": [
+          461,
+          223,
+          20,
+          15
+        ]
+      },
+      {
+        "frame_idx": 800,
+        "tool_tip": [
+          448,
+          229
+        ],
+        "bbox": [
+          439,
+          222,
+          16,
+          16
+        ]
+      },
+      {
+        "frame_idx": 850,
+        "tool_tip": [
+          434,
+          233
+        ],
+        "bbox": [
+          425,
+          224,
+          17,
+          16
+        ]
+      },
+      {
+        "frame_idx": 950,
+        "tool_tip": [
+          419,
+          233
+        ],
+        "bbox": [
+          411,
+          225,
+          16,
+          15
+        ]
+      },
+      {
+        "frame_idx": 1050,
+        "tool_tip": [
+          432,
+          227
+        ],
+        "bbox": [
+          424,
+          218,
+          17,
+          17
+        ]
+      },
+      {
+        "frame_idx": 1100,
+        "tool_tip": [
+          437,
+          238
+        ],
+        "bbox": [
+          430,
+          233,
+          15,
+          13
+        ]
+      },
+      {
+        "frame_idx": 1150,
+        "tool_tip": [
+          444,
+          240
+        ],
+        "bbox": [
+          437,
+          234,
+          13,
+          12
+        ]
+      },
+      {
+        "frame_idx": 1199,
+        "tool_tip": [
+          452,
+          237
+        ],
+        "bbox": [
+          445,
+          229,
+          13,
+          16
+        ]
+      },
+      {
+        "frame_idx": 1299,
+        "tool_tip": [
+          461,
+          238
+        ],
+        "bbox": [
+          446,
+          222,
+          26,
+          25
+        ]
+      },
+      {
+        "frame_idx": 1399,
+        "tool_tip": [
+          453,
+          230
+        ],
+        "bbox": [
+          446,
+          222,
+          26,
+          25
+        ]
+      },
+      {
+        "frame_idx": 1449,
+        "tool_tip": [
+          453,
+          230
+        ],
+        "bbox": [
+          446,
+          222,
+          26,
+          25
+        ]
+      },
+      {
+        "frame_idx": 1499,
+        "tool_tip": [
+          453,
+          230
+        ],
+        "bbox": [
+          446,
+          222,
+          26,
+          25
+        ]
+      },
+      {
+        "frame_idx": 1549,
+        "tool_tip": [
+          453,
+          230
+        ],
+        "bbox": [
+          446,
+          222,
+          26,
+          25
+        ]
+      },
+      {
+        "frame_idx": 2099,
+        "tool_tip": [
+          452,
+          222
+        ],
+        "bbox": [
+          439,
+          215,
+          26,
+          19
+        ]
+      },
+      {
+        "frame_idx": 2518,
+        "tool_tip": [
+          446,
+          225
+        ],
+        "bbox": [
+          439,
+          215,
+          26,
+          19
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.10 AM (1).mp4": {
+    "video_index": 2,
+    "material": "Aluminium",
+    "start_frame": 0,
+    "bbox": [
+      484,
+      204,
+      16,
+      16
+    ],
+    "tool_tip": [
+      494,
+      214
+    ],
+    "offset_from_bbox": [
+      10,
+      10
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          494,
+          214
+        ],
+        "bbox": [
+          484,
+          204,
+          16,
+          16
+        ]
+      },
+      {
+        "frame_idx": 419,
+        "tool_tip": [
+          538,
+          197
+        ],
+        "bbox": [
+          530,
+          189,
+          19,
+          16
+        ]
+      },
+      {
+        "frame_idx": 839,
+        "tool_tip": [
+          506,
+          166
+        ],
+        "bbox": [
+          498,
+          159,
+          18,
+          16
+        ]
+      },
+      {
+        "frame_idx": 1258,
+        "tool_tip": [
+          455,
+          166
+        ],
+        "bbox": [
+          446,
+          157,
+          19,
+          17
+        ]
+      },
+      {
+        "frame_idx": 1677,
+        "tool_tip": [
+          455,
+          176
+        ],
+        "bbox": [
+          446,
+          169,
+          17,
+          12
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.10 AM (2).mp4": {
+    "video_index": 3,
+    "material": "Aluminium",
+    "start_frame": 0,
+    "bbox": [
+      548,
+      274,
+      4,
+      3
+    ],
+    "tool_tip": [
+      552,
+      274
+    ],
+    "offset_from_bbox": [
+      4,
+      0
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          552,
+          274
+        ],
+        "bbox": [
+          548,
+          274,
+          4,
+          3
+        ]
+      },
+      {
+        "frame_idx": 1056,
+        "tool_tip": [
+          485,
+          228
+        ],
+        "bbox": [
+          479,
+          222,
+          15,
+          13
+        ]
+      },
+      {
+        "frame_idx": 2111,
+        "tool_tip": [
+          492,
+          128
+        ],
+        "bbox": [
+          485,
+          120,
+          17,
+          16
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.10 AM.mp4": {
+    "video_index": 4,
+    "material": "Aluminium",
+    "start_frame": 0,
+    "bbox": [
+      547,
+      203,
+      19,
+      19
+    ],
+    "tool_tip": [
+      555,
+      212
+    ],
+    "offset_from_bbox": [
+      8,
+      9
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          555,
+          212
+        ],
+        "bbox": [
+          547,
+          203,
+          19,
+          19
+        ]
+      },
+      {
+        "frame_idx": 575,
+        "tool_tip": [
+          504,
+          220
+        ],
+        "bbox": [
+          494,
+          209,
+          18,
+          19
+        ]
+      },
+      {
+        "frame_idx": 1149,
+        "tool_tip": [
+          490,
+          212
+        ],
+        "bbox": [
+          481,
+          201,
+          19,
+          19
+        ]
+      },
+      {
+        "frame_idx": 1724,
+        "tool_tip": [
+          476,
+          190
+        ],
+        "bbox": [
+          466,
+          178,
+          16,
+          18
+        ]
+      },
+      {
+        "frame_idx": 2298,
+        "tool_tip": [
+          422,
+          195
+        ],
+        "bbox": [
+          411,
+          184,
+          20,
+          18
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.11 AM (1).mp4": {
+    "video_index": 5,
+    "material": "Aluminium",
+    "start_frame": 0,
+    "bbox": [
+      368,
+      249,
+      16,
+      13
+    ],
+    "tool_tip": [
+      376,
+      254
+    ],
+    "offset_from_bbox": [
+      8,
+      5
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          376,
+          254
+        ],
+        "bbox": [
+          368,
+          249,
+          16,
+          13
+        ]
+      },
+      {
+        "frame_idx": 418,
+        "tool_tip": [
+          375,
+          198
+        ],
+        "bbox": [
+          369,
+          191,
+          12,
+          13
+        ]
+      },
+      {
+        "frame_idx": 837,
+        "tool_tip": [
+          389,
+          234
+        ],
+        "bbox": [
+          386,
+          229,
+          9,
+          10
+        ]
+      },
+      {
+        "frame_idx": 1255,
+        "tool_tip": [
+          355,
+          240
+        ],
+        "bbox": [
+          351,
+          236,
+          10,
+          10
+        ]
+      },
+      {
+        "frame_idx": 1673,
+        "tool_tip": [
+          377,
+          226
+        ],
+        "bbox": [
+          369,
+          219,
+          18,
+          14
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.11 AM.mp4": {
+    "video_index": 6,
+    "material": "Aluminium",
+    "start_frame": 0,
+    "bbox": [
+      481,
+      246,
+      15,
+      11
+    ],
+    "tool_tip": [
+      488,
+      249
+    ],
+    "offset_from_bbox": [
+      7,
+      3
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          488,
+          249
+        ],
+        "bbox": [
+          481,
+          246,
+          15,
+          11
+        ]
+      },
+      {
+        "frame_idx": 554,
+        "tool_tip": [
+          460,
+          194
+        ],
+        "bbox": [
+          457,
+          187,
+          11,
+          12
+        ]
+      },
+      {
+        "frame_idx": 1108,
+        "tool_tip": [
+          453,
+          172
+        ],
+        "bbox": [
+          445,
+          163,
+          14,
+          19
+        ]
+      },
+      {
+        "frame_idx": 1662,
+        "tool_tip": [
+          494,
+          198
+        ],
+        "bbox": [
+          487,
+          189,
+          14,
+          15
+        ]
+      },
+      {
+        "frame_idx": 2216,
+        "tool_tip": [
+          523,
+          200
+        ],
+        "bbox": [
+          511,
+          189,
+          20,
+          19
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.12 AM (1).mp4": {
+    "video_index": 7,
+    "material": "Aluminium",
+    "start_frame": 0,
+    "bbox": [
+      523,
+      222,
+      11,
+      10
+    ],
+    "tool_tip": [
+      527,
+      226
+    ],
+    "offset_from_bbox": [
+      4,
+      4
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          527,
+          226
+        ],
+        "bbox": [
+          523,
+          222,
+          11,
+          10
+        ]
+      },
+      {
+        "frame_idx": 870,
+        "tool_tip": [
+          498,
+          242
+        ],
+        "bbox": [
+          487,
+          231,
+          26,
+          24
+        ]
+      },
+      {
+        "frame_idx": 1739,
+        "tool_tip": [
+          437,
+          263
+        ],
+        "bbox": [
+          427,
+          250,
+          24,
+          25
+        ]
+      },
+      {
+        "frame_idx": 2609,
+        "tool_tip": [
+          438,
+          277
+        ],
+        "bbox": [
+          425,
+          265,
+          25,
+          22
+        ]
+      },
+      {
+        "frame_idx": 3478,
+        "tool_tip": [
+          424,
+          245
+        ],
+        "bbox": [
+          417,
+          229,
+          21,
+          25
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.13 AM (1).mp4": {
+    "video_index": 8,
+    "material": "Copper",
+    "start_frame": 0,
+    "bbox": [
+      566,
+      238,
+      17,
+      14
+    ],
+    "tool_tip": [
+      575,
+      245
+    ],
+    "offset_from_bbox": [
+      9,
+      7
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          575,
+          245
+        ],
+        "bbox": [
+          566,
+          238,
+          17,
+          14
+        ]
+      },
+      {
+        "frame_idx": 518,
+        "tool_tip": [
+          472,
+          210
+        ],
+        "bbox": [
+          464,
+          199,
+          21,
+          18
+        ]
+      },
+      {
+        "frame_idx": 1037,
+        "tool_tip": [
+          407,
+          158
+        ],
+        "bbox": [
+          397,
+          142,
+          22,
+          29
+        ]
+      },
+      {
+        "frame_idx": 1555,
+        "tool_tip": [
+          417,
+          207
+        ],
+        "bbox": [
+          411,
+          195,
+          19,
+          19
+        ]
+      },
+      {
+        "frame_idx": 2073,
+        "tool_tip": [
+          410,
+          187
+        ],
+        "bbox": [
+          397,
+          174,
+          27,
+          21
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.13 AM (2).mp4": {
+    "video_index": 9,
+    "material": "Copper",
+    "start_frame": 0,
+    "bbox": [
+      577,
+      215,
+      11,
+      11
+    ],
+    "tool_tip": [
+      584,
+      222
+    ],
+    "offset_from_bbox": [
+      7,
+      7
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          584,
+          222
+        ],
+        "bbox": [
+          577,
+          215,
+          11,
+          11
+        ]
+      },
+      {
+        "frame_idx": 224,
+        "tool_tip": [
+          586,
+          203
+        ],
+        "bbox": [
+          580,
+          193,
+          15,
+          19
+        ]
+      },
+      {
+        "frame_idx": 448,
+        "tool_tip": [
+          500,
+          211
+        ],
+        "bbox": [
+          489,
+          197,
+          29,
+          31
+        ]
+      },
+      {
+        "frame_idx": 671,
+        "tool_tip": [
+          500,
+          211
+        ],
+        "bbox": [
+          489,
+          197,
+          29,
+          31
+        ]
+      },
+      {
+        "frame_idx": 895,
+        "tool_tip": [
+          525,
+          285
+        ],
+        "bbox": [
+          516,
+          276,
+          24,
+          20
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.13 AM.mp4": {
+    "video_index": 10,
+    "material": "Copper",
+    "start_frame": 0,
+    "bbox": [
+      452,
+      317,
+      21,
+      17
+    ],
+    "tool_tip": [
+      462,
+      324
+    ],
+    "offset_from_bbox": [
+      10,
+      7
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          462,
+          324
+        ],
+        "bbox": [
+          452,
+          317,
+          21,
+          17
+        ]
+      },
+      {
+        "frame_idx": 946,
+        "tool_tip": [
+          477,
+          257
+        ],
+        "bbox": [
+          470,
+          247,
+          18,
+          21
+        ]
+      },
+      {
+        "frame_idx": 1893,
+        "tool_tip": [
+          465,
+          241
+        ],
+        "bbox": [
+          453,
+          228,
+          23,
+          21
+        ]
+      },
+      {
+        "frame_idx": 2839,
+        "tool_tip": [
+          460,
+          217
+        ],
+        "bbox": [
+          453,
+          205,
+          17,
+          20
+        ]
+      },
+      {
+        "frame_idx": 3785,
+        "tool_tip": [
+          488,
+          231
+        ],
+        "bbox": [
+          478,
+          219,
+          20,
+          22
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.14 AM (1).mp4": {
+    "video_index": 11,
+    "material": "Copper",
+    "start_frame": 0,
+    "bbox": [
+      559,
+      196,
+      17,
+      15
+    ],
+    "tool_tip": [
+      568,
+      201
+    ],
+    "offset_from_bbox": [
+      9,
+      5
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          568,
+          201
+        ],
+        "bbox": [
+          559,
+          196,
+          17,
+          15
+        ]
+      },
+      {
+        "frame_idx": 198,
+        "tool_tip": [
+          595,
+          202
+        ],
+        "bbox": [
+          588,
+          193,
+          17,
+          16
+        ]
+      },
+      {
+        "frame_idx": 397,
+        "tool_tip": [
+          684,
+          242
+        ],
+        "bbox": [
+          675,
+          229,
+          20,
+          22
+        ]
+      },
+      {
+        "frame_idx": 595,
+        "tool_tip": [
+          557,
+          211
+        ],
+        "bbox": [
+          546,
+          195,
+          21,
+          28
+        ]
+      },
+      {
+        "frame_idx": 793,
+        "tool_tip": [
+          733,
+          277
+        ],
+        "bbox": [
+          723,
+          264,
+          24,
+          23
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.14 AM (2).mp4": {
+    "video_index": 12,
+    "material": "Copper",
+    "start_frame": 0,
+    "bbox": [
+      551,
+      249,
+      16,
+      15
+    ],
+    "tool_tip": [
+      558,
+      254
+    ],
+    "offset_from_bbox": [
+      7,
+      5
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          558,
+          254
+        ],
+        "bbox": [
+          551,
+          249,
+          16,
+          15
+        ]
+      },
+      {
+        "frame_idx": 480,
+        "tool_tip": [
+          504,
+          143
+        ],
+        "bbox": [
+          491,
+          132,
+          25,
+          22
+        ]
+      },
+      {
+        "frame_idx": 960,
+        "tool_tip": [
+          455,
+          141
+        ],
+        "bbox": [
+          442,
+          128,
+          26,
+          23
+        ]
+      },
+      {
+        "frame_idx": 1439,
+        "tool_tip": [
+          445,
+          162
+        ],
+        "bbox": [
+          434,
+          151,
+          20,
+          20
+        ]
+      },
+      {
+        "frame_idx": 1919,
+        "tool_tip": [
+          427,
+          187
+        ],
+        "bbox": [
+          419,
+          176,
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.14 AM.mp4": {
+    "video_index": 13,
+    "material": "Copper",
+    "start_frame": 0,
+    "bbox": [
+      447,
+      192,
+      15,
+      15
+    ],
+    "tool_tip": [
+      453,
+      199
+    ],
+    "offset_from_bbox": [
+      6,
+      7
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          453,
+          199
+        ],
+        "bbox": [
+          447,
+          192,
+          15,
+          15
+        ]
+      },
+      {
+        "frame_idx": 711,
+        "tool_tip": [
+          456,
+          165
+        ],
+        "bbox": [
+          447,
+          155,
+          18,
+          21
+        ]
+      },
+      {
+        "frame_idx": 1423,
+        "tool_tip": [
+          421,
+          159
+        ],
+        "bbox": [
+          410,
+          146,
+          24,
+          25
+        ]
+      },
+      {
+        "frame_idx": 2134,
+        "tool_tip": [
+          398,
+          204
+        ],
+        "bbox": [
+          389,
+          193,
+          19,
+          22
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.15 AM (1).mp4": {
+    "video_index": 14,
+    "material": "Mild Steel",
+    "start_frame": 0,
+    "bbox": [
+      497,
+      196,
+      14,
+      11
+    ],
+    "tool_tip": [
+      505,
+      201
+    ],
+    "offset_from_bbox": [
+      8,
+      5
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          505,
+          201
+        ],
+        "bbox": [
+          497,
+          196,
+          14,
+          11
+        ]
+      },
+      {
+        "frame_idx": 644,
+        "tool_tip": [
+          484,
+          199
+        ],
+        "bbox": [
+          473,
+          187,
+          18,
+          17
+        ]
+      },
+      {
+        "frame_idx": 1287,
+        "tool_tip": [
+          459,
+          239
+        ],
+        "bbox": [
+          447,
+          229,
+          21,
+          19
+        ]
+      },
+      {
+        "frame_idx": 1931,
+        "tool_tip": [
+          442,
+          219
+        ],
+        "bbox": [
+          432,
+          208,
+          19,
+          18
+        ]
+      },
+      {
+        "frame_idx": 2574,
+        "tool_tip": [
+          434,
+          188
+        ],
+        "bbox": [
+          420,
+          172,
+          29,
+          31
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.15 AM.mp4": {
+    "video_index": 15,
+    "material": "Mild Steel",
+    "start_frame": 0,
+    "bbox": [
+      579,
+      156,
+      25,
+      21
+    ],
+    "tool_tip": [
+      591,
+      164
+    ],
+    "offset_from_bbox": [
+      12,
+      8
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          591,
+          164
+        ],
+        "bbox": [
+          579,
+          156,
+          25,
+          21
+        ]
+      },
+      {
+        "frame_idx": 300,
+        "tool_tip": [
+          587,
+          187
+        ],
+        "bbox": [
+          578,
+          179,
+          23,
+          15
+        ]
+      },
+      {
+        "frame_idx": 600,
+        "tool_tip": [
+          508,
+          172
+        ],
+        "bbox": [
+          498,
+          160,
+          26,
+          20
+        ]
+      },
+      {
+        "frame_idx": 918,
+        "tool_tip": [
+          524,
+          186
+        ],
+        "bbox": [
+          516,
+          178,
+          16,
+          16
+        ]
+      },
+      {
+        "frame_idx": 1200,
+        "tool_tip": [
+          518,
+          183
+        ],
+        "bbox": [
+          502,
+          168,
+          31,
+          30
+        ]
+      },
+      {
+        "frame_idx": 1835,
+        "tool_tip": [
+          500,
+          155
+        ],
+        "bbox": [
+          490,
+          145,
+          18,
+          21
+        ]
+      },
+      {
+        "frame_idx": 2000,
+        "tool_tip": [
+          503,
+          172
+        ],
+        "bbox": [
+          492,
+          160,
+          20,
+          19
+        ]
+      },
+      {
+        "frame_idx": 2753,
+        "tool_tip": [
+          473,
+          219
+        ],
+        "bbox": [
+          461,
+          205,
+          25,
+          25
+        ]
+      },
+      {
+        "frame_idx": 3000,
+        "tool_tip": [
+          452,
+          240
+        ],
+        "bbox": [
+          441,
+          230,
+          22,
+          23
+        ]
+      },
+      {
+        "frame_idx": 3670,
+        "tool_tip": [
+          456,
+          220
+        ],
+        "bbox": [
+          448,
+          211,
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.16 AM (1).mp4": {
+    "video_index": 16,
+    "material": "Mild Steel",
+    "start_frame": 0,
+    "bbox": [
+      494,
+      240,
+      18,
+      13
+    ],
+    "tool_tip": [
+      503,
+      245
+    ],
+    "offset_from_bbox": [
+      9,
+      5
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          503,
+          245
+        ],
+        "bbox": [
+          494,
+          240,
+          18,
+          13
+        ]
+      },
+      {
+        "frame_idx": 997,
+        "tool_tip": [
+          464,
+          268
+        ],
+        "bbox": [
+          454,
+          258,
+          24,
+          23
+        ]
+      },
+      {
+        "frame_idx": 1994,
+        "tool_tip": [
+          462,
+          209
+        ],
+        "bbox": [
+          454,
+          195,
+          22,
+          28
+        ]
+      },
+      {
+        "frame_idx": 2991,
+        "tool_tip": [
+          455,
+          245
+        ],
+        "bbox": [
+          442,
+          232,
+          23,
+          22
+        ]
+      },
+      {
+        "frame_idx": 3988,
+        "tool_tip": [
+          386,
+          264
+        ],
+        "bbox": [
+          375,
+          256,
+          25,
+          19
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.16 AM.mp4": {
+    "video_index": 17,
+    "material": "Mild Steel",
+    "start_frame": 0,
+    "bbox": [
+      515,
+      204,
+      14,
+      11
+    ],
+    "tool_tip": [
+      523,
+      208
+    ],
+    "offset_from_bbox": [
+      8,
+      4
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          523,
+          208
+        ],
+        "bbox": [
+          515,
+          204,
+          14,
+          11
+        ]
+      },
+      {
+        "frame_idx": 385,
+        "tool_tip": [
+          564,
+          230
+        ],
+        "bbox": [
+          554,
+          220,
+          19,
+          18
+        ]
+      },
+      {
+        "frame_idx": 769,
+        "tool_tip": [
+          513,
+          242
+        ],
+        "bbox": [
+          504,
+          232,
+          19,
+          19
+        ]
+      },
+      {
+        "frame_idx": 1154,
+        "tool_tip": [
+          462,
+          230
+        ],
+        "bbox": [
+          451,
+          219,
+          20,
+          22
+        ]
+      },
+      {
+        "frame_idx": 1538,
+        "tool_tip": [
+          433,
+          237
+        ],
+        "bbox": [
+          426,
+          226,
+          18,
+          19
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.17 AM (1).mp4": {
+    "video_index": 18,
+    "material": "Mild Steel",
+    "start_frame": 0,
+    "bbox": [
+      574,
+      364,
+      21,
+      12
+    ],
+    "tool_tip": [
+      587,
+      368
+    ],
+    "offset_from_bbox": [
+      13,
+      4
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          587,
+          368
+        ],
+        "bbox": [
+          574,
+          364,
+          21,
+          12
+        ]
+      },
+      {
+        "frame_idx": 912,
+        "tool_tip": [
+          493,
+          233
+        ],
+        "bbox": [
+          487,
+          222,
+          19,
+          17
+        ]
+      },
+      {
+        "frame_idx": 1824,
+        "tool_tip": [
+          456,
+          194
+        ],
+        "bbox": [
+          449,
+          185,
+          17,
+          17
+        ]
+      },
+      {
+        "frame_idx": 2736,
+        "tool_tip": [
+          464,
+          190
+        ],
+        "bbox": [
+          456,
+          178,
+          17,
+          21
+        ]
+      },
+      {
+        "frame_idx": 3648,
+        "tool_tip": [
+          445,
+          228
+        ],
+        "bbox": [
+          435,
+          218,
+          15,
+          17
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.17 AM (2).mp4": {
+    "video_index": 19,
+    "material": "Mild Steel",
+    "start_frame": 0,
+    "bbox": [
+      496,
+      180,
+      19,
+      22
+    ],
+    "tool_tip": [
+      505,
+      191
+    ],
+    "offset_from_bbox": [
+      9,
+      11
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          505,
+          191
+        ],
+        "bbox": [
+          496,
+          180,
+          19,
+          22
+        ]
+      },
+      {
+        "frame_idx": 574,
+        "tool_tip": [
+          481,
+          158
+        ],
+        "bbox": [
+          472,
+          150,
+          15,
+          14
+        ]
+      },
+      {
+        "frame_idx": 1148,
+        "tool_tip": [
+          459,
+          170
+        ],
+        "bbox": [
+          452,
+          162,
+          18,
+          16
+        ]
+      },
+      {
+        "frame_idx": 1722,
+        "tool_tip": [
+          446,
+          145
+        ],
+        "bbox": [
+          438,
+          136,
+          18,
+          20
+        ]
+      },
+      {
+        "frame_idx": 2296,
+        "tool_tip": [
+          407,
+          177
+        ],
+        "bbox": [
+          396,
+          168,
+          23,
+          22
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.17 AM.mp4": {
+    "video_index": 20,
+    "material": "Mild Steel",
+    "start_frame": 0,
+    "bbox": [
+      543,
+      219,
+      17,
+      19
+    ],
+    "tool_tip": [
+      550,
+      228
+    ],
+    "offset_from_bbox": [
+      7,
+      9
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          550,
+          228
+        ],
+        "bbox": [
+          543,
+          219,
+          17,
+          19
+        ]
+      },
+      {
+        "frame_idx": 561,
+        "tool_tip": [
+          469,
+          234
+        ],
+        "bbox": [
+          459,
+          223,
+          17,
+          20
+        ]
+      },
+      {
+        "frame_idx": 1123,
+        "tool_tip": [
+          410,
+          264
+        ],
+        "bbox": [
+          400,
+          253,
+          18,
+          22
+        ]
+      },
+      {
+        "frame_idx": 1684,
+        "tool_tip": [
+          381,
+          243
+        ],
+        "bbox": [
+          368,
+          230,
+          22,
+          24
+        ]
+      },
+      {
+        "frame_idx": 2245,
+        "tool_tip": [
+          377,
+          255
+        ],
+        "bbox": [
+          367,
+          242,
+          23,
+          21
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.18 AM (1).mp4": {
+    "video_index": 21,
+    "material": "Mild Steel",
+    "start_frame": 0,
+    "bbox": [
+      461,
+      238,
+      15,
+      16
+    ],
+    "tool_tip": [
+      468,
+      244
+    ],
+    "offset_from_bbox": [
+      7,
+      6
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          468,
+          244
+        ],
+        "bbox": [
+          461,
+          238,
+          15,
+          16
+        ]
+      },
+      {
+        "frame_idx": 484,
+        "tool_tip": [
+          441,
+          244
+        ],
+        "bbox": [
+          435,
+          237,
+          14,
+          13
+        ]
+      },
+      {
+        "frame_idx": 968,
+        "tool_tip": [
+          417,
+          148
+        ],
+        "bbox": [
+          410,
+          139,
+          14,
+          17
+        ]
+      },
+      {
+        "frame_idx": 1452,
+        "tool_tip": [
+          360,
+          214
+        ],
+        "bbox": [
+          356,
+          206,
+          12,
+          12
+        ]
+      },
+      {
+        "frame_idx": 1936,
+        "tool_tip": [
+          371,
+          237
+        ],
+        "bbox": [
+          365,
+          231,
+          12,
+          11
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.18 AM.mp4": {
+    "video_index": 22,
+    "material": "Mild Steel",
+    "start_frame": 0,
+    "bbox": [
+      598,
+      163,
+      19,
+      16
+    ],
+    "tool_tip": [
+      606,
+      169
+    ],
+    "offset_from_bbox": [
+      8,
+      6
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          606,
+          169
+        ],
+        "bbox": [
+          598,
+          163,
+          19,
+          16
+        ]
+      },
+      {
+        "frame_idx": 409,
+        "tool_tip": [
+          537,
+          138
+        ],
+        "bbox": [
+          532,
+          130,
+          18,
+          18
+        ]
+      },
+      {
+        "frame_idx": 818,
+        "tool_tip": [
+          496,
+          171
+        ],
+        "bbox": [
+          484,
+          163,
+          21,
+          20
+        ]
+      },
+      {
+        "frame_idx": 1227,
+        "tool_tip": [
+          446,
+          213
+        ],
+        "bbox": [
+          439,
+          203,
+          17,
+          16
+        ]
+      },
+      {
+        "frame_idx": 1636,
+        "tool_tip": [
+          400,
+          224
+        ],
+        "bbox": [
+          389,
+          210,
+          24,
+          30
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.19 AM.mp4": {
+    "video_index": 23,
+    "material": "Mild Steel",
+    "start_frame": 0,
+    "bbox": [
+      377,
+      191,
+      19,
+      18
+    ],
+    "tool_tip": [
+      386,
+      199
+    ],
+    "offset_from_bbox": [
+      9,
+      8
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          386,
+          199
+        ],
+        "bbox": [
+          377,
+          191,
+          19,
+          18
+        ]
+      },
+      {
+        "frame_idx": 27,
+        "tool_tip": [
+          375,
+          210
+        ],
+        "bbox": [
+          365,
+          200,
+          19,
+          17
+        ]
+      },
+      {
+        "frame_idx": 54,
+        "tool_tip": [
+          266,
+          170
+        ],
+        "bbox": [
+          260,
+          162,
+          16,
+          17
+        ]
+      },
+      {
+        "frame_idx": 81,
+        "tool_tip": [
+          163,
+          66
+        ],
+        "bbox": [
+          147,
+          51,
+          33,
+          26
+        ]
+      },
+      {
+        "frame_idx": 108,
+        "tool_tip": [
+          337,
+          146
+        ],
+        "bbox": [
+          328,
+          135,
+          23,
+          22
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.20 AM (1).mp4": {
+    "video_index": 24,
+    "material": "Mild Steel",
+    "start_frame": 0,
+    "bbox": [
+      448,
+      313,
+      14,
+      12
+    ],
+    "tool_tip": [
+      455,
+      319
+    ],
+    "offset_from_bbox": [
+      7,
+      6
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          455,
+          319
+        ],
+        "bbox": [
+          448,
+          313,
+          14,
+          12
+        ]
+      },
+      {
+        "frame_idx": 1220,
+        "tool_tip": [
+          457,
+          317
+        ],
+        "bbox": [
+          449,
+          308,
+          15,
+          16
+        ]
+      },
+      {
+        "frame_idx": 2440,
+        "tool_tip": [
+          424,
+          296
+        ],
+        "bbox": [
+          413,
+          286,
+          19,
+          20
+        ]
+      },
+      {
+        "frame_idx": 3660,
+        "tool_tip": [
+          425,
+          286
+        ],
+        "bbox": [
+          414,
+          270,
+          22,
+          26
+        ]
+      },
+      {
+        "frame_idx": 4880,
+        "tool_tip": [
+          336,
+          237
+        ],
+        "bbox": [
+          328,
+          227,
+          15,
+          22
+        ]
+      }
+    ]
+  },
+  "WhatsApp Video 2026-08-11 at 6.55.20 AM.mp4": {
+    "video_index": 25,
+    "material": "Mild Steel",
+    "start_frame": 0,
+    "bbox": [
+      611,
+      220,
+      12,
+      11
+    ],
+    "tool_tip": [
+      616,
+      224
+    ],
+    "offset_from_bbox": [
+      5,
+      4
+    ],
+    "keyframes": [
+      {
+        "frame_idx": 0,
+        "tool_tip": [
+          616,
+          224
+        ],
+        "bbox": [
+          611,
+          220,
+          12,
+          11
+        ]
+      },
+      {
+        "frame_idx": 494,
+        "tool_tip": [
+          542,
+          201
+        ],
+        "bbox": [
+          531,
+          188,
+          22,
+          24
+        ]
+      },
+      {
+        "frame_idx": 989,
+        "tool_tip": [
+          500,
+          193
+        ],
+        "bbox": [
+          492,
+          182,
+          16,
+          17
+        ]
+      },
+      {
+        "frame_idx": 1483,
+        "tool_tip": [
+          420,
+          236
+        ],
+        "bbox": [
+          412,
+          224,
+          17,
+          23
+        ]
+      },
+      {
+        "frame_idx": 1977,
+        "tool_tip": [
+          443,
+          227
+        ],
+        "bbox": [
+          433,
+          213,
+          25,
+          24
+        ]
+      }
+    ]
+  }
+}

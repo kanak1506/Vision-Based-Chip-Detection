@@ -1,0 +1,45 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment & Virtualenvs
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE & Tooling
+.vscode/
+.idea/
+*.swp
+*.swo
+.agents/
+
+# Heavy Machine Vision Datasets & Intermediate Outputs (>50MB / Generated)
+data/phase0_raw_videos/*
+!data/phase0_raw_videos/.gitkeep
+data/phase0_extracted_frames/
+data/phase1_tracked_frames/
+data/phase2_roi_crops/
+data/phase3_stepwise_layers/
+
+# Raw media extensions
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Temporary Scratch & Local Run Artifacts
+scratch/
+results/
+test_layer0_specular/
+

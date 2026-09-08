@@ -1,0 +1,279 @@
+{
+  "dataset_statistics": {
+    "total_raw_frames": 62301,
+    "sample_rate": 15,
+    "total_sampled_crops": 4165,
+    "retained_valid_crops": 4165,
+    "no_tool_background_crops": 0,
+    "elapsed_seconds": 15.63
+  },
+  "material_distribution": {
+    "RETAINED": {
+      "Aluminium": 1208,
+      "Copper": 823,
+      "Mild Steel": 2134
+    }
+  },
+  "split_distribution": {
+    "test": {
+      "Aluminium": 168,
+      "Copper": 128,
+      "Mild Steel": 314
+    },
+    "train": {
+      "Aluminium": 886,
+      "Copper": 556,
+      "Mild Steel": 1498
+    },
+    "val": {
+      "Aluminium": 154,
+      "Copper": 139,
+      "Mild Steel": 322
+    }
+  },
+  "video_summaries": [
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.09 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.09_AM",
+      "material": "Aluminium",
+      "split": "test",
+      "total_sampled_crops": 168,
+      "retained_valid_crops": 168,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.10 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.10_AM_(1)",
+      "material": "Aluminium",
+      "split": "train",
+      "total_sampled_crops": 112,
+      "retained_valid_crops": 112,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.10 AM (2).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.10_AM_(2)",
+      "material": "Aluminium",
+      "split": "train",
+      "total_sampled_crops": 282,
+      "retained_valid_crops": 282,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.10 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.10_AM",
+      "material": "Aluminium",
+      "split": "val",
+      "total_sampled_crops": 154,
+      "retained_valid_crops": 154,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.11 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.11_AM_(1)",
+      "material": "Aluminium",
+      "split": "train",
+      "total_sampled_crops": 112,
+      "retained_valid_crops": 112,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.11 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.11_AM",
+      "material": "Aluminium",
+      "split": "train",
+      "total_sampled_crops": 148,
+      "retained_valid_crops": 148,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.12 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.12_AM_(1)",
+      "material": "Aluminium",
+      "split": "train",
+      "total_sampled_crops": 232,
+      "retained_valid_crops": 232,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.13 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.13_AM_(1)",
+      "material": "Copper",
+      "split": "val",
+      "total_sampled_crops": 139,
+      "retained_valid_crops": 139,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.13 AM (2).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.13_AM_(2)",
+      "material": "Copper",
+      "split": "train",
+      "total_sampled_crops": 60,
+      "retained_valid_crops": 60,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.13 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.13_AM",
+      "material": "Copper",
+      "split": "train",
+      "total_sampled_crops": 253,
+      "retained_valid_crops": 253,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.14 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.14_AM_(1)",
+      "material": "Copper",
+      "split": "train",
+      "total_sampled_crops": 53,
+      "retained_valid_crops": 53,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.14 AM (2).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.14_AM_(2)",
+      "material": "Copper",
+      "split": "test",
+      "total_sampled_crops": 128,
+      "retained_valid_crops": 128,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.14 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.14_AM",
+      "material": "Copper",
+      "split": "train",
+      "total_sampled_crops": 190,
+      "retained_valid_crops": 190,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.15 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.15_AM_(1)",
+      "material": "Mild Steel",
+      "split": "val",
+      "total_sampled_crops": 172,
+      "retained_valid_crops": 172,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.15 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.15_AM",
+      "material": "Mild Steel",
+      "split": "test",
+      "total_sampled_crops": 245,
+      "retained_valid_crops": 245,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.16 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.16_AM_(1)",
+      "material": "Mild Steel",
+      "split": "train",
+      "total_sampled_crops": 266,
+      "retained_valid_crops": 266,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.16 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.16_AM",
+      "material": "Mild Steel",
+      "split": "train",
+      "total_sampled_crops": 103,
+      "retained_valid_crops": 103,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.17 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.17_AM_(1)",
+      "material": "Mild Steel",
+      "split": "train",
+      "total_sampled_crops": 244,
+      "retained_valid_crops": 244,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.17 AM (2).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.17_AM_(2)",
+      "material": "Mild Steel",
+      "split": "train",
+      "total_sampled_crops": 154,
+      "retained_valid_crops": 154,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.17 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.17_AM",
+      "material": "Mild Steel",
+      "split": "val",
+      "total_sampled_crops": 150,
+      "retained_valid_crops": 150,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.18 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.18_AM_(1)",
+      "material": "Mild Steel",
+      "split": "train",
+      "total_sampled_crops": 130,
+      "retained_valid_crops": 130,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.18 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.18_AM",
+      "material": "Mild Steel",
+      "split": "train",
+      "total_sampled_crops": 110,
+      "retained_valid_crops": 110,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.19 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.19_AM",
+      "material": "Mild Steel",
+      "split": "train",
+      "total_sampled_crops": 8,
+      "retained_valid_crops": 8,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.20 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.20_AM_(1)",
+      "material": "Mild Steel",
+      "split": "train",
+      "total_sampled_crops": 326,
+      "retained_valid_crops": 326,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.20 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.20_AM",
+      "material": "Mild Steel",
+      "split": "train",
+      "total_sampled_crops": 132,
+      "retained_valid_crops": 132,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.21 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.21_AM_(1)",
+      "material": "Mild Steel",
+      "split": "test",
+      "total_sampled_crops": 69,
+      "retained_valid_crops": 69,
+      "no_tool_background_crops": 0
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.21 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.21_AM",
+      "material": "Mild Steel",
+      "split": "train",
+      "total_sampled_crops": 25,
+      "retained_valid_crops": 25,
+      "no_tool_background_crops": 0
+    }
+  ]
+}

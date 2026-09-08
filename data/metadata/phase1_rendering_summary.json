@@ -1,0 +1,197 @@
+{
+  "total_videos": 27,
+  "total_frames_rendered": 62301,
+  "elapsed_seconds": 253.41,
+  "output_directory": "data/phase1_tracked_frames",
+  "details": [
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.10 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.10_AM_(1)",
+      "status": "OK",
+      "frames_rendered": 1678,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.10_AM_(1)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.11 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.11_AM_(1)",
+      "status": "OK",
+      "frames_rendered": 1674,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.11_AM_(1)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.13 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.13_AM_(1)",
+      "status": "OK",
+      "frames_rendered": 2074,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.13_AM_(1)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.10 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.10_AM",
+      "status": "OK",
+      "frames_rendered": 2299,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.10_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.11 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.11_AM",
+      "status": "OK",
+      "frames_rendered": 2217,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.11_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.13 AM (2).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.13_AM_(2)",
+      "status": "OK",
+      "frames_rendered": 896,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.13_AM_(2)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.09 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.09_AM",
+      "status": "OK",
+      "frames_rendered": 2519,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.09_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.14 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.14_AM_(1)",
+      "status": "OK",
+      "frames_rendered": 794,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.14_AM_(1)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.12 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.12_AM_(1)",
+      "status": "OK",
+      "frames_rendered": 3479,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.12_AM_(1)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.10 AM (2).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.10_AM_(2)",
+      "status": "OK",
+      "frames_rendered": 4223,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.10_AM_(2)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.14 AM (2).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.14_AM_(2)",
+      "status": "OK",
+      "frames_rendered": 1920,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.14_AM_(2)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.15 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.15_AM_(1)",
+      "status": "OK",
+      "frames_rendered": 2575,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.15_AM_(1)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.16 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.16_AM",
+      "status": "OK",
+      "frames_rendered": 1539,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.16_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.14 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.14_AM",
+      "status": "OK",
+      "frames_rendered": 2846,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.14_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.13 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.13_AM",
+      "status": "OK",
+      "frames_rendered": 3786,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.13_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.19 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.19_AM",
+      "status": "OK",
+      "frames_rendered": 109,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.19_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.15 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.15_AM",
+      "status": "OK",
+      "frames_rendered": 3671,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.15_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.17 AM (2).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.17_AM_(2)",
+      "status": "OK",
+      "frames_rendered": 2297,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.17_AM_(2)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.18 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.18_AM",
+      "status": "OK",
+      "frames_rendered": 1637,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.18_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.16 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.16_AM_(1)",
+      "status": "OK",
+      "frames_rendered": 3989,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.16_AM_(1)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.18 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.18_AM_(1)",
+      "status": "OK",
+      "frames_rendered": 1937,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.18_AM_(1)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.21 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.21_AM",
+      "status": "OK",
+      "frames_rendered": 365,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.21_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.17 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.17_AM",
+      "status": "OK",
+      "frames_rendered": 2246,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.17_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.21 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.21_AM_(1)",
+      "status": "OK",
+      "frames_rendered": 1023,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.21_AM_(1)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.17 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.17_AM_(1)",
+      "status": "OK",
+      "frames_rendered": 3649,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.17_AM_(1)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.20 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.20_AM",
+      "status": "OK",
+      "frames_rendered": 1978,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.20_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.20 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.20_AM_(1)",
+      "status": "OK",
+      "frames_rendered": 4881,
+      "folder": "data/phase1_tracked_frames/WhatsApp_Video_2026-08-11_at_6.55.20_AM_(1)"
+    }
+  ]
+}

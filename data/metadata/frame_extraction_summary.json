@@ -1,0 +1,278 @@
+{
+  "total_videos": 27,
+  "total_frames_extracted": 62301,
+  "elapsed_seconds": 194.34,
+  "output_directory": "data/phase0_extracted_frames",
+  "details": [
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.10 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.10_AM_(1)",
+      "status": "OK",
+      "frames_extracted": 1678,
+      "expected_frames": 1678,
+      "fps": 60.0,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.10_AM_(1)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.11 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.11_AM_(1)",
+      "status": "OK",
+      "frames_extracted": 1674,
+      "expected_frames": 1674,
+      "fps": 60.02,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.11_AM_(1)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.13 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.13_AM_(1)",
+      "status": "OK",
+      "frames_extracted": 2074,
+      "expected_frames": 2074,
+      "fps": 60.02,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.13_AM_(1)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.11 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.11_AM",
+      "status": "OK",
+      "frames_extracted": 2217,
+      "expected_frames": 2217,
+      "fps": 60.0,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.11_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.10 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.10_AM",
+      "status": "OK",
+      "frames_extracted": 2299,
+      "expected_frames": 2299,
+      "fps": 59.65,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.10_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.09 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.09_AM",
+      "status": "OK",
+      "frames_extracted": 2519,
+      "expected_frames": 2519,
+      "fps": 59.99,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.09_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.13 AM (2).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.13_AM_(2)",
+      "status": "OK",
+      "frames_extracted": 896,
+      "expected_frames": 896,
+      "fps": 59.81,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.13_AM_(2)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.14 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.14_AM_(1)",
+      "status": "OK",
+      "frames_extracted": 794,
+      "expected_frames": 794,
+      "fps": 59.99,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.14_AM_(1)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.12 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.12_AM_(1)",
+      "status": "OK",
+      "frames_extracted": 3479,
+      "expected_frames": 3479,
+      "fps": 59.76,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.12_AM_(1)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.10 AM (2).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.10_AM_(2)",
+      "status": "OK",
+      "frames_extracted": 4223,
+      "expected_frames": 4223,
+      "fps": 59.72,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.10_AM_(2)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.14 AM (2).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.14_AM_(2)",
+      "status": "OK",
+      "frames_extracted": 1920,
+      "expected_frames": 1920,
+      "fps": 59.96,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.14_AM_(2)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.16 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.16_AM",
+      "status": "OK",
+      "frames_extracted": 1539,
+      "expected_frames": 1539,
+      "fps": 60.02,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.16_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.15 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.15_AM_(1)",
+      "status": "OK",
+      "frames_extracted": 2575,
+      "expected_frames": 2575,
+      "fps": 59.92,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.15_AM_(1)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.14 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.14_AM",
+      "status": "OK",
+      "frames_extracted": 2846,
+      "expected_frames": 2846,
+      "fps": 59.78,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.14_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.13 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.13_AM",
+      "status": "OK",
+      "frames_extracted": 3786,
+      "expected_frames": 3786,
+      "fps": 59.73,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.13_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.19 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.19_AM",
+      "status": "OK",
+      "frames_extracted": 109,
+      "expected_frames": 109,
+      "fps": 59.43,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.19_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.15 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.15_AM",
+      "status": "OK",
+      "frames_extracted": 3671,
+      "expected_frames": 3671,
+      "fps": 59.81,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.15_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.17 AM (2).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.17_AM_(2)",
+      "status": "OK",
+      "frames_extracted": 2297,
+      "expected_frames": 2297,
+      "fps": 60.02,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.17_AM_(2)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.18 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.18_AM",
+      "status": "OK",
+      "frames_extracted": 1637,
+      "expected_frames": 1637,
+      "fps": 59.96,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.18_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.16 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.16_AM_(1)",
+      "status": "OK",
+      "frames_extracted": 3989,
+      "expected_frames": 3989,
+      "fps": 59.81,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.16_AM_(1)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.18 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.18_AM_(1)",
+      "status": "OK",
+      "frames_extracted": 1937,
+      "expected_frames": 1937,
+      "fps": 59.96,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.18_AM_(1)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.21 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.21_AM",
+      "status": "OK",
+      "frames_extracted": 365,
+      "expected_frames": 365,
+      "fps": 60.0,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.21_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.17 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.17_AM",
+      "status": "OK",
+      "frames_extracted": 2246,
+      "expected_frames": 2246,
+      "fps": 60.02,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.17_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.21 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.21_AM_(1)",
+      "status": "OK",
+      "frames_extracted": 1023,
+      "expected_frames": 1023,
+      "fps": 59.85,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.21_AM_(1)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.17 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.17_AM_(1)",
+      "status": "OK",
+      "frames_extracted": 3649,
+      "expected_frames": 3649,
+      "fps": 60.01,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.17_AM_(1)"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.20 AM.mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.20_AM",
+      "status": "OK",
+      "frames_extracted": 1978,
+      "expected_frames": 1978,
+      "fps": 59.79,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.20_AM"
+    },
+    {
+      "video": "WhatsApp Video 2026-08-11 at 6.55.20 AM (1).mp4",
+      "clean_name": "WhatsApp_Video_2026-08-11_at_6.55.20_AM_(1)",
+      "status": "OK",
+      "frames_extracted": 4881,
+      "expected_frames": 4881,
+      "fps": 59.93,
+      "resolution": "848x478",
+      "folder": "data/phase0_extracted_frames/WhatsApp_Video_2026-08-11_at_6.55.20_AM_(1)"
+    }
+  ]
+}
